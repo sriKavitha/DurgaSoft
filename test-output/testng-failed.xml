@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="org.openmrs.demo.OpenMRSNew.RegistrationPageTests">
+        <methods>
+          <include name="verifylogo"/>
+          <include name="verifyConfirmRegister"/>
+          <include name="verifyTitle"/>
+          <include name="tearDown"/>
+          <include name="RegisterPageSetUp"/>
+          <include name="VerifyCancelRegister"/>
+        </methods>
+      </class> <!-- org.openmrs.demo.OpenMRSNew.RegistrationPageTests -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

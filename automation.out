@@ -1,0 +1,612 @@
+2019-01-29 09:41:39 INFO  HomePageTests:18 - Browser opened
+2019-01-29 09:42:10 INFO  HomePageTests:53 - Verified Cant Login
+2019-01-29 09:42:15 INFO  HomePageTests:18 - Browser opened
+2019-01-29 09:42:15 INFO  HomePageTests:39 - Verified title of the page
+2019-01-29 09:42:22 INFO  RegistrationPageTests:21 - Browser opened
+2019-01-29 09:42:22 INFO  RegistrationPageTests:41 - Clicked on Logo after user signed in
+2019-01-29 09:42:22 INFO  RegistrationPageTests:84 - Browser closed
+2019-01-29 09:42:28 INFO  HomePageTests:18 - Browser opened
+2019-01-29 09:42:28 INFO  HomePageTests:28 - Logo clicked
+2019-01-29 09:42:35 INFO  RegistrationPageTests:21 - Browser opened
+2019-01-29 09:42:43 INFO  RegistrationPageTests:53 - Verified... The control goes to begin of Registration details after user clicks CANCEL button
+2019-01-29 09:42:45 INFO  RegistrationPageTests:84 - Browser closed
+2019-01-29 09:42:52 INFO  RegistrationPageTests:21 - Browser opened
+2019-01-29 09:43:07 INFO  RegistrationPageTests:74 - Verified... The PATIENT registration details are saved into the system after user clicks CONFIRM button
+2019-01-29 09:43:07 INFO  RegistrationPageTests:84 - Browser closed
+2019-01-29 09:44:47 INFO  HomePageTests:18 - Browser opened
+2019-01-29 09:45:17 INFO  HomePageTests:53 - Verified Cant Login
+2019-01-29 09:45:24 INFO  HomePageTests:18 - Browser opened
+2019-01-29 09:45:24 INFO  HomePageTests:39 - Verified title of the page
+2019-01-29 09:45:30 INFO  RegistrationPageTests:21 - Browser opened
+2019-01-29 09:45:30 INFO  RegistrationPageTests:41 - Clicked on Logo after user signed in
+2019-01-29 09:45:30 INFO  RegistrationPageTests:84 - Browser closed
+2019-01-29 09:45:35 INFO  HomePageTests:18 - Browser opened
+2019-01-29 09:45:36 INFO  HomePageTests:28 - Logo clicked
+2019-01-29 09:45:42 INFO  RegistrationPageTests:21 - Browser opened
+2019-01-29 09:45:50 INFO  RegistrationPageTests:53 - Verified... The control goes to begin of Registration details after user clicks CANCEL button
+2019-01-29 09:45:52 INFO  RegistrationPageTests:84 - Browser closed
+2019-01-29 09:45:58 INFO  RegistrationPageTests:21 - Browser opened
+2019-01-29 09:46:13 INFO  RegistrationPageTests:74 - Verified... The PATIENT registration details are saved into the system after user clicks CONFIRM button
+2019-01-29 09:46:14 INFO  RegistrationPageTests:84 - Browser closed
+2019-01-29 09:49:10 INFO  RegistrationPageTests:21 - Browser opened
+2019-01-29 09:49:10 INFO  RegistrationPageTests:41 - Clicked on Logo after user signed in
+2019-01-29 09:49:12 INFO  RegistrationPageTests:84 - Browser closed
+2019-01-29 09:49:19 INFO  RegistrationPageTests:21 - Browser opened
+2019-01-29 09:49:27 INFO  RegistrationPageTests:84 - Browser closed
+2019-01-29 09:49:34 INFO  RegistrationPageTests:21 - Browser opened
+2019-01-29 09:49:51 INFO  RegistrationPageTests:74 - Verified... The PATIENT registration details are saved into the system after user clicks CONFIRM button
+2019-01-29 09:49:51 INFO  RegistrationPageTests:84 - Browser closed
+2019-01-29 10:09:50 INFO  HomePageTests:18 - Browser opened
+2019-01-29 10:10:21 INFO  HomePageTests:55 - Verified Cant Login
+2019-01-29 10:10:27 INFO  HomePageTests:18 - Browser opened
+2019-01-29 10:10:27 INFO  HomePageTests:41 - Verified title of the page
+2019-01-29 10:10:33 INFO  HomePageTests:18 - Browser opened
+2019-01-29 10:10:34 INFO  HomePageTests:30 - Logo clicked
+2019-01-29 10:17:03 INFO  HomePageTests:18 - Browser opened
+2019-01-29 10:19:15 INFO  HomePageTests:18 - Browser opened
+2019-01-29 10:19:46 INFO  HomePageTests:56 - Verified Cant Login
+2019-01-29 10:19:53 INFO  HomePageTests:18 - Browser opened
+2019-01-29 10:19:54 INFO  HomePageTests:42 - Verified title of the page
+2019-01-29 10:19:59 INFO  HomePageTests:18 - Browser opened
+2019-01-29 10:20:01 INFO  HomePageTests:31 - Logo clicked
+2019-01-29 10:20:54 INFO  HomePageTests:18 - Browser opened
+2019-01-29 10:21:25 INFO  HomePageTests:56 - Verified Cant Login
+2019-01-29 10:21:31 INFO  HomePageTests:18 - Browser opened
+2019-01-29 10:21:31 INFO  HomePageTests:42 - Verified title of the page
+2019-01-29 10:21:39 INFO  HomePageTests:18 - Browser opened
+2019-01-29 10:21:40 INFO  HomePageTests:31 - Logo clicked
+2019-01-29 10:26:47 INFO  HomePageTests:18 - Browser opened
+2019-01-29 10:27:19 INFO  HomePageTests:58 - Verified Cant Login
+2019-01-29 10:27:26 INFO  HomePageTests:18 - Browser opened
+2019-01-29 10:27:27 INFO  HomePageTests:43 - Verified title of the page
+2019-01-29 10:27:35 INFO  HomePageTests:18 - Browser opened
+2019-01-29 10:27:36 INFO  HomePageTests:31 - Logo clicked
+2019-01-29 10:29:08 INFO  RegistrationPageTests:22 - Browser opened
+2019-01-29 10:29:09 INFO  RegistrationPageTests:44 - Clicked on Logo after user signed in
+2019-01-29 10:29:11 INFO  RegistrationPageTests:89 - Browser closed
+2019-01-29 10:29:19 INFO  RegistrationPageTests:22 - Browser opened
+2019-01-29 10:29:29 INFO  RegistrationPageTests:57 - Verified... The control goes to begin of Registration details after user clicks CANCEL button
+2019-01-29 10:29:31 INFO  RegistrationPageTests:89 - Browser closed
+2019-01-29 10:29:39 INFO  RegistrationPageTests:22 - Browser opened
+2019-01-29 10:29:56 INFO  RegistrationPageTests:79 - Verified... The PATIENT registration details are saved into the system after user clicks CONFIRM button
+2019-01-29 10:29:56 INFO  RegistrationPageTests:89 - Browser closed
+2019-01-29 15:48:42 INFO  HomePageTests:18 - Browser opened
+2019-01-29 15:49:24 INFO  HomePageTests:58 - Verified Cant Login
+2019-01-29 15:49:36 INFO  HomePageTests:18 - Browser opened
+2019-01-29 15:49:47 INFO  HomePageTests:43 - Verified title of the page
+2019-01-29 15:49:57 INFO  HomePageTests:18 - Browser opened
+2019-01-29 15:50:08 INFO  HomePageTests:31 - Logo clicked
+2019-01-29 15:55:23 INFO  HomePageTests:18 - Browser opened
+2019-01-29 15:55:54 INFO  HomePageTests:77 - Verified Cant Login
+2019-01-29 15:56:03 INFO  HomePageTests:18 - Browser opened
+2019-01-29 15:56:04 INFO  HomePageTests:57 - Verified title of the page
+2019-01-29 15:56:13 INFO  HomePageTests:18 - Browser opened
+2019-01-29 15:56:14 INFO  HomePageTests:40 - Logo clicked
+2019-01-29 16:29:46 INFO  HomePageTests:18 - Browser opened
+2019-01-29 16:29:47 INFO  HomePageTests:52 - Verified Cant Login
+2019-01-29 16:29:54 INFO  HomePageTests:18 - Browser opened
+2019-01-29 16:29:55 INFO  HomePageTests:42 - Verified title of the page
+2019-01-29 16:30:01 INFO  HomePageTests:18 - Browser opened
+2019-01-29 16:30:02 INFO  HomePageTests:30 - Logo clicked
+2019-01-29 16:31:59 INFO  HomePageTests:18 - Browser opened
+2019-01-29 16:32:00 INFO  HomePageTests:52 - Verified Cant Login
+2019-01-29 16:32:07 INFO  HomePageTests:18 - Browser opened
+2019-01-29 16:32:08 INFO  HomePageTests:42 - Verified title of the page
+2019-01-29 16:32:16 INFO  HomePageTests:18 - Browser opened
+2019-01-29 16:32:17 INFO  HomePageTests:30 - Logo clicked
+2019-01-29 16:40:11 INFO  HomePageTests:18 - Browser opened
+2019-01-29 16:40:12 INFO  HomePageTests:52 - Verified Cant Login
+2019-01-29 16:40:17 INFO  HomePageTests:18 - Browser opened
+2019-01-29 16:40:18 INFO  HomePageTests:42 - Verified title of the page
+2019-01-29 16:40:26 INFO  HomePageTests:18 - Browser opened
+2019-01-29 16:40:27 INFO  HomePageTests:30 - Logo clicked
+2019-01-29 16:41:32 INFO  HomePageTests:18 - Browser opened
+2019-01-29 16:41:32 INFO  HomePageTests:52 - Verified Cant Login
+2019-01-29 16:41:38 INFO  HomePageTests:18 - Browser opened
+2019-01-29 16:41:39 INFO  HomePageTests:42 - Verified title of the page
+2019-01-29 16:41:46 INFO  HomePageTests:18 - Browser opened
+2019-01-29 16:41:47 INFO  HomePageTests:30 - Logo clicked
+2019-01-29 16:44:50 INFO  RegistrationPageTests:22 - Browser opened
+2019-01-29 16:44:50 INFO  RegistrationPageTests:44 - Clicked on Logo after user signed in
+2019-01-29 16:44:51 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-29 16:44:57 INFO  RegistrationPageTests:22 - Browser opened
+2019-01-29 16:45:07 INFO  RegistrationPageTests:57 - Verified... The control goes to begin of Registration details after user clicks CANCEL button
+2019-01-29 16:45:09 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-29 16:45:16 INFO  RegistrationPageTests:22 - Browser opened
+2019-01-29 16:45:31 INFO  RegistrationPageTests:79 - Verified... The PATIENT registration details are saved into the system after user clicks CONFIRM button
+2019-01-29 16:45:33 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-29 16:53:24 INFO  HomePageTests:18 - Browser opened
+2019-01-29 16:53:24 INFO  HomePageTests:52 - Verified Cant Login
+2019-01-29 16:54:38 INFO  RegistrationPageTests:22 - Browser opened
+2019-01-29 16:54:38 INFO  RegistrationPageTests:34 - Verified title after user signed in
+2019-01-29 16:54:38 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-29 16:54:41 INFO  HomePageTests:18 - Browser opened
+2019-01-29 16:54:41 INFO  HomePageTests:42 - Verified title of the page
+2019-01-29 16:55:54 INFO  RegistrationPageTests:22 - Browser opened
+2019-01-29 16:55:55 INFO  RegistrationPageTests:44 - Clicked on Logo after user signed in
+2019-01-29 16:55:55 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-29 16:55:58 INFO  HomePageTests:18 - Browser opened
+2019-01-29 16:55:59 INFO  HomePageTests:30 - Logo clicked
+2019-01-29 17:03:02 INFO  RegistrationPageTests:22 - Browser opened
+2019-01-29 17:03:03 INFO  RegistrationPageTests:34 - Verified title after user signed in
+2019-01-29 17:03:03 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-29 17:03:11 INFO  RegistrationPageTests:22 - Browser opened
+2019-01-29 17:03:13 INFO  RegistrationPageTests:44 - Clicked on Logo after user signed in
+2019-01-29 17:03:13 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-29 17:03:20 INFO  RegistrationPageTests:22 - Browser opened
+2019-01-29 17:03:28 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-29 17:03:35 INFO  RegistrationPageTests:22 - Browser opened
+2019-01-29 17:03:42 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-29 17:05:04 INFO  RegistrationPageTests:22 - Browser opened
+2019-01-29 17:05:12 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-29 17:05:20 INFO  RegistrationPageTests:22 - Browser opened
+2019-01-29 17:05:32 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-29 17:06:01 INFO  RegistrationPageTests:22 - Browser opened
+2019-01-29 17:06:13 INFO  RegistrationPageTests:57 - Verified... The control goes to begin of Registration details after user clicks CANCEL button
+2019-01-29 17:06:13 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-29 17:06:22 INFO  RegistrationPageTests:22 - Browser opened
+2019-01-29 17:06:43 INFO  RegistrationPageTests:79 - Verified... The PATIENT registration details are saved into the system after user clicks CONFIRM button
+2019-01-29 17:06:43 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-30 09:40:27 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 09:40:30 INFO  FindPatientPageTests:88 - Browser closed
+2019-01-30 09:41:32 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 09:41:36 INFO  FindPatientPageTests:57 - Verified... The control goes to begin of Registration details after user clicks CANCEL button
+2019-01-30 09:41:37 INFO  FindPatientPageTests:88 - Browser closed
+2019-01-30 09:43:46 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 09:43:48 INFO  FindPatientPageTests:89 - Browser closed
+2019-01-30 09:43:55 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 09:43:56 INFO  FindPatientPageTests:45 - Clicked on Logo in Find Patient page after user signed in
+2019-01-30 09:43:58 INFO  FindPatientPageTests:89 - Browser closed
+2019-01-30 09:44:04 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 09:44:09 INFO  FindPatientPageTests:58 - Verified... The control goes to begin of Registration details after user clicks CANCEL button
+2019-01-30 09:44:11 INFO  FindPatientPageTests:89 - Browser closed
+2019-01-30 09:50:03 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 09:50:04 INFO  FindPatientPageTests:66 - Browser closed
+2019-01-30 09:50:11 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 09:50:11 INFO  FindPatientPageTests:44 - Clicked on Logo in Find Patient page after user signed in
+2019-01-30 09:50:14 INFO  FindPatientPageTests:66 - Browser closed
+2019-01-30 09:50:21 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 09:50:25 INFO  FindPatientPageTests:57 - Verified... The control goes to Find Patient page
+2019-01-30 09:50:25 INFO  FindPatientPageTests:66 - Browser closed
+2019-01-30 09:52:11 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 09:52:12 INFO  FindPatientPageTests:66 - Browser closed
+2019-01-30 09:52:18 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 09:52:19 INFO  FindPatientPageTests:44 - Clicked on Logo in Find Patient page after user signed in
+2019-01-30 09:52:19 INFO  FindPatientPageTests:66 - Browser closed
+2019-01-30 09:52:26 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 09:52:31 INFO  FindPatientPageTests:57 - Verified... The control goes to Find Patient page
+2019-01-30 09:52:31 INFO  FindPatientPageTests:66 - Browser closed
+2019-01-30 09:52:59 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 09:57:08 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 09:57:13 INFO  FindPatientPageTests:57 - Verified... The control goes to Find Patient page
+2019-01-30 09:57:15 INFO  FindPatientPageTests:66 - Browser closed
+2019-01-30 09:57:21 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 09:57:24 INFO  FindPatientPageTests:66 - Browser closed
+2019-01-30 09:57:30 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 09:57:31 INFO  FindPatientPageTests:44 - Clicked on Logo in Find Patient page after user signed in
+2019-01-30 09:57:33 INFO  FindPatientPageTests:66 - Browser closed
+2019-01-30 09:58:58 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 09:59:02 INFO  FindPatientPageTests:56 - Verified... The control goes to Find Patient page
+2019-01-30 09:59:03 INFO  FindPatientPageTests:33 - Verified title in Find Patient page after user signed in
+2019-01-30 09:59:04 INFO  FindPatientPageTests:43 - Clicked on Logo in Find Patient page after user signed in
+2019-01-30 09:59:04 INFO  FindPatientPageTests:65 - Browser closed
+2019-01-30 10:05:45 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 10:05:50 INFO  FindPatientPageTests:56 - Verified... The registered Patient is found
+2019-01-30 10:05:50 INFO  FindPatientPageTests:33 - Verified title in Find Patient page after user signed in
+2019-01-30 10:05:51 INFO  FindPatientPageTests:43 - Clicked on Logo in Find Patient page after user signed in
+2019-01-30 10:05:51 INFO  FindPatientPageTests:65 - Browser closed
+2019-01-30 10:08:28 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 10:08:33 INFO  FindPatientPageTests:55 - Verified... The registered Patient is found
+2019-01-30 10:08:33 INFO  FindPatientPageTests:32 - Verified title in Find Patient page after user signed in
+2019-01-30 10:08:34 INFO  FindPatientPageTests:42 - Clicked on Logo in Find Patient page after user signed in
+2019-01-30 10:08:34 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 10:11:25 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 10:11:30 INFO  FindPatientPageTests:55 - Verified... The registered Patient is found
+2019-01-30 10:11:30 INFO  FindPatientPageTests:32 - Verified title in Find Patient page after user signed in
+2019-01-30 10:11:31 INFO  FindPatientPageTests:42 - Clicked on Logo in Find Patient page after user signed in
+2019-01-30 10:11:33 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 10:12:34 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 10:12:35 INFO  FindPatientPageTests:42 - Clicked on Logo in Find Patient page after user signed in
+2019-01-30 10:12:39 INFO  FindPatientPageTests:55 - Verified... The registered Patient is found
+2019-01-30 10:12:41 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 10:14:55 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 10:14:59 INFO  FindPatientPageTests:55 - Verified... The registered Patient is found
+2019-01-30 10:15:00 INFO  FindPatientPageTests:32 - Verified title in Find Patient page after user signed in
+2019-01-30 10:15:00 INFO  FindPatientPageTests:42 - Clicked on Logo in Find Patient page after user signed in
+2019-01-30 10:15:01 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 10:17:11 INFO  HomePageTests:18 - Browser opened
+2019-01-30 10:17:12 INFO  HomePageTests:52 - Verified Cant Login
+2019-01-30 10:17:18 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 10:17:23 INFO  FindPatientPageTests:55 - Verified... The registered Patient is found
+2019-01-30 10:17:28 INFO  HomePageTests:18 - Browser opened
+2019-01-30 10:17:29 INFO  HomePageTests:42 - Verified title of the page
+2019-01-30 10:17:35 INFO  HomePageTests:18 - Browser opened
+2019-01-30 10:17:36 INFO  HomePageTests:30 - Logo clicked
+2019-01-30 10:17:46 INFO  RegistrationPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 10:17:54 INFO  RegistrationPageTests:57 - Verified... The control goes to begin of Registration details after user clicks CANCEL button
+2019-01-30 10:17:54 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-30 10:18:02 INFO  RegistrationPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 10:18:18 INFO  RegistrationPageTests:79 - Verified... The PATIENT registration details are saved into the system after user clicks CONFIRM button
+2019-01-30 10:18:20 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-30 10:25:22 INFO  FindPatientPageTests:20 - Browser opened and User Signed In successfully
+2019-01-30 10:25:26 INFO  FindPatientPageTests:54 - Verified... The registered Patient is found
+2019-01-30 10:25:32 INFO  FindPatientPageTests:20 - Browser opened and User Signed In successfully
+2019-01-30 10:25:39 INFO  FindPatientPageTests:20 - Browser opened and User Signed In successfully
+2019-01-30 10:25:40 INFO  FindPatientPageTests:41 - Clicked on Logo in Find Patient page after user signed in
+2019-01-30 10:26:29 INFO  HomePageTests:18 - Browser opened
+2019-01-30 10:26:29 INFO  HomePageTests:52 - Verified Cant Login
+2019-01-30 10:26:39 INFO  FindPatientPageTests:20 - Browser opened and User Signed In successfully
+2019-01-30 10:26:43 INFO  FindPatientPageTests:54 - Verified... The registered Patient is found
+2019-01-30 10:26:49 INFO  HomePageTests:18 - Browser opened
+2019-01-30 10:26:49 INFO  HomePageTests:42 - Verified title of the page
+2019-01-30 10:26:59 INFO  FindPatientPageTests:20 - Browser opened and User Signed In successfully
+2019-01-30 10:27:06 INFO  HomePageTests:18 - Browser opened
+2019-01-30 10:27:07 INFO  HomePageTests:30 - Logo clicked
+2019-01-30 10:27:18 INFO  RegistrationPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 10:27:28 INFO  RegistrationPageTests:57 - Verified... The control goes to begin of Registration details after user clicks CANCEL button
+2019-01-30 10:27:29 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-30 10:27:35 INFO  FindPatientPageTests:20 - Browser opened and User Signed In successfully
+2019-01-30 10:27:36 INFO  FindPatientPageTests:41 - Clicked on Logo in Find Patient page after user signed in
+2019-01-30 10:27:43 INFO  RegistrationPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 10:28:00 INFO  RegistrationPageTests:79 - Verified... The PATIENT registration details are saved into the system after user clicks CONFIRM button
+2019-01-30 10:28:02 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-30 10:29:51 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 10:29:55 INFO  FindPatientPageTests:55 - Verified... The registered Patient is found
+2019-01-30 10:29:56 INFO  FindPatientPageTests:32 - Verified title in Find Patient page after user signed in
+2019-01-30 10:30:03 INFO  RegistrationPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 10:30:12 INFO  RegistrationPageTests:57 - Verified... The control goes to begin of Registration details after user clicks CANCEL button
+2019-01-30 10:30:15 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-30 10:30:21 INFO  RegistrationPageTests:22 - Browser opened and User Signed In successfully
+2019-01-30 10:30:39 INFO  RegistrationPageTests:79 - Verified... The PATIENT registration details are saved into the system after user clicks CONFIRM button
+2019-01-30 10:30:39 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-30 15:36:27 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 15:36:31 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 15:48:24 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 15:48:29 INFO  FindPatientPageTests:55 - Verified... The registered Patient is found or not found
+2019-01-30 15:48:31 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 15:52:04 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 15:53:41 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 15:57:50 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 16:01:45 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 16:01:50 INFO  FindPatientPageTests:55 - Verified... The registered Patient is found or not found
+2019-01-30 16:01:50 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 16:04:36 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 16:04:40 INFO  FindPatientPageTests:55 - Verified... The registered Patient is found or not found
+2019-01-30 16:04:43 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 16:07:26 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 16:07:30 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 16:08:08 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 16:08:12 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 16:11:37 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 16:11:38 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 16:12:24 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 16:12:34 INFO  FindPatientPageTests:55 - Verified... The registered Patient is found or not found
+2019-01-30 16:12:36 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 16:13:34 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 16:13:42 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 16:20:01 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 16:20:57 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 16:30:41 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 16:30:49 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 16:32:32 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 16:32:40 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 16:34:10 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 16:34:16 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 16:42:07 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 16:42:15 INFO  FindPatientPageTests:55 - Verified... The registered Patient is found or not found
+2019-01-30 16:42:17 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 16:42:51 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 16:42:55 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 16:44:47 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 16:44:51 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 16:49:26 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 16:49:34 INFO  FindPatientPageTests:55 - Verified... The registered Patient is found or not found
+2019-01-30 16:49:36 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 16:50:26 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 16:50:32 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 17:05:06 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 17:05:09 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 17:09:40 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 17:09:44 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 21:24:50 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 21:24:55 INFO  FindPatientPageTests:55 - Verified... The registered Patient is found or not found
+2019-01-30 21:24:55 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 21:26:15 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 21:26:19 INFO  FindPatientPageTests:64 - Browser closed
+2019-01-30 21:27:38 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 21:33:23 INFO  FindPatientPageTests:55 - Verified... The registered Patient is found or not found
+2019-01-30 21:42:12 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 21:42:14 INFO  FindPatientPageTests:72 - Browser closed
+2019-01-30 21:43:30 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-30 21:43:38 INFO  FindPatientPageTests:72 - Browser closed
+2019-01-31 01:09:48 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 01:09:54 INFO  FindPatientPageTests:72 - Browser closed
+2019-01-31 01:10:52 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 01:10:57 INFO  FindPatientPageTests:72 - Browser closed
+2019-01-31 01:12:22 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 01:12:28 INFO  FindPatientPageTests:72 - Browser closed
+2019-01-31 01:13:13 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 01:15:44 INFO  FindPatientPageTests:59 - Verified... The Patient is not registered
+2019-01-31 01:16:26 INFO  FindPatientPageTests:72 - Browser closed
+2019-01-31 01:17:07 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 01:17:57 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 01:19:30 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 01:19:34 INFO  FindPatientPageTests:72 - Browser closed
+2019-01-31 01:22:35 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 01:22:42 INFO  FindPatientPageTests:72 - Browser closed
+2019-01-31 01:23:24 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 01:23:33 INFO  FindPatientPageTests:72 - Browser closed
+2019-01-31 09:57:07 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 09:57:17 INFO  FindPatientPageTests:74 - Browser closed
+2019-01-31 09:58:49 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 09:58:58 INFO  FindPatientPageTests:74 - Browser closed
+2019-01-31 09:59:44 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 09:59:51 INFO  FindPatientPageTests:74 - Browser closed
+2019-01-31 10:01:17 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 10:01:27 INFO  FindPatientPageTests:74 - Browser closed
+2019-01-31 10:02:56 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 10:03:13 INFO  FindPatientPageTests:61 - Verified... The Patient is not registered
+2019-01-31 10:03:16 INFO  FindPatientPageTests:74 - Browser closed
+2019-01-31 10:03:46 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 10:04:00 INFO  FindPatientPageTests:61 - Verified... The Patient is not registered
+2019-01-31 10:04:06 INFO  FindPatientPageTests:74 - Browser closed
+2019-01-31 10:04:31 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 10:04:44 INFO  FindPatientPageTests:61 - Verified... The Patient is not registered
+2019-01-31 10:04:50 INFO  FindPatientPageTests:74 - Browser closed
+2019-01-31 10:05:11 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 10:05:25 INFO  FindPatientPageTests:61 - Verified... The Patient is not registered
+2019-01-31 10:05:32 INFO  FindPatientPageTests:74 - Browser closed
+2019-01-31 10:06:20 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 10:06:26 INFO  FindPatientPageTests:74 - Browser closed
+2019-01-31 10:09:08 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 10:09:16 INFO  FindPatientPageTests:74 - Browser closed
+2019-01-31 10:34:38 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 10:34:46 INFO  FindPatientPageTests:74 - Browser closed
+2019-01-31 10:41:45 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 10:41:51 INFO  FindPatientPageTests:76 - Browser closed
+2019-01-31 10:42:38 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 10:42:46 INFO  FindPatientPageTests:76 - Browser closed
+2019-01-31 10:43:46 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 10:43:56 INFO  FindPatientPageTests:76 - Browser closed
+2019-01-31 10:52:29 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 10:52:36 INFO  FindPatientPageTests:63 - Verified... The Patient is not registered
+2019-01-31 10:52:42 INFO  FindPatientPageTests:76 - Browser closed
+2019-01-31 10:53:18 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 10:53:26 INFO  FindPatientPageTests:76 - Browser closed
+2019-01-31 10:55:22 INFO  HomePageTests:18 - Browser opened
+2019-01-31 10:55:23 INFO  HomePageTests:52 - Verified Cant Login
+2019-01-31 10:55:32 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 10:55:39 INFO  FindPatientPageTests:63 - Verified... The Patient is not registered
+2019-01-31 10:55:44 INFO  FindPatientPageTests:76 - Browser closed
+2019-01-31 10:55:49 INFO  HomePageTests:18 - Browser opened
+2019-01-31 10:55:50 INFO  HomePageTests:42 - Verified title of the page
+2019-01-31 10:55:57 INFO  HomePageTests:18 - Browser opened
+2019-01-31 10:55:58 INFO  HomePageTests:30 - Logo clicked
+2019-01-31 10:56:07 INFO  RegistrationPageTests:22 - Browser opened and User Signed In successfully
+2019-01-31 10:56:14 INFO  RegistrationPageTests:57 - Verified... The control goes to begin of Registration details after user clicks CANCEL button
+2019-01-31 10:56:16 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-31 10:56:23 INFO  RegistrationPageTests:22 - Browser opened and User Signed In successfully
+2019-01-31 10:56:40 INFO  RegistrationPageTests:79 - Verified... The PATIENT registration details are saved into the system after user clicks CONFIRM button
+2019-01-31 10:56:42 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-31 11:00:58 INFO  HomePageTests:18 - Browser opened
+2019-01-31 11:00:59 INFO  HomePageTests:52 - Verified Cant Login
+2019-01-31 11:01:07 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 11:01:14 INFO  FindPatientPageTests:63 - Verified... The Patient is not registered
+2019-01-31 11:01:20 INFO  FindPatientPageTests:76 - Browser closed
+2019-01-31 11:03:11 INFO  HomePageTests:18 - Browser opened
+2019-01-31 11:03:12 INFO  HomePageTests:52 - Verified Cant Login
+2019-01-31 11:03:20 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 11:03:24 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 11:03:28 INFO  FindPatientPageTests:63 - Verified... The Patient is not registered
+2019-01-31 11:03:32 INFO  FindPatientPageTests:63 - Verified... The Patient is not registered
+2019-01-31 11:03:33 INFO  FindPatientPageTests:76 - Browser closed
+2019-01-31 11:03:38 INFO  FindPatientPageTests:76 - Browser closed
+2019-01-31 11:03:41 INFO  RegistrationPageTests:22 - Browser opened and User Signed In successfully
+2019-01-31 11:03:45 INFO  HomePageTests:18 - Browser opened
+2019-01-31 11:03:47 INFO  HomePageTests:42 - Verified title of the page
+2019-01-31 11:03:54 INFO  RegistrationPageTests:57 - Verified... The control goes to begin of Registration details after user clicks CANCEL button
+2019-01-31 11:03:55 INFO  HomePageTests:18 - Browser opened
+2019-01-31 11:03:56 INFO  HomePageTests:30 - Logo clicked
+2019-01-31 11:03:57 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-31 11:04:07 INFO  RegistrationPageTests:22 - Browser opened and User Signed In successfully
+2019-01-31 11:04:09 INFO  RegistrationPageTests:22 - Browser opened and User Signed In successfully
+2019-01-31 11:04:20 INFO  RegistrationPageTests:57 - Verified... The control goes to begin of Registration details after user clicks CANCEL button
+2019-01-31 11:04:22 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-31 11:04:29 INFO  RegistrationPageTests:79 - Verified... The PATIENT registration details are saved into the system after user clicks CONFIRM button
+2019-01-31 11:04:31 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-31 11:04:31 INFO  RegistrationPageTests:22 - Browser opened and User Signed In successfully
+2019-01-31 11:04:49 INFO  RegistrationPageTests:79 - Verified... The PATIENT registration details are saved into the system after user clicks CONFIRM button
+2019-01-31 11:04:50 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-31 11:06:47 INFO  HomePageTests:18 - Browser opened
+2019-01-31 11:06:48 INFO  HomePageTests:52 - Verified Cant Login
+2019-01-31 11:06:56 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 11:07:03 INFO  FindPatientPageTests:63 - Verified... The Patient is not registered
+2019-01-31 11:07:09 INFO  FindPatientPageTests:76 - Browser closed
+2019-01-31 11:07:14 INFO  HomePageTests:18 - Browser opened
+2019-01-31 11:07:15 INFO  HomePageTests:42 - Verified title of the page
+2019-01-31 11:07:23 INFO  HomePageTests:18 - Browser opened
+2019-01-31 11:07:24 INFO  HomePageTests:30 - Logo clicked
+2019-01-31 11:07:31 INFO  RegistrationPageTests:22 - Browser opened and User Signed In successfully
+2019-01-31 11:07:40 INFO  RegistrationPageTests:57 - Verified... The control goes to begin of Registration details after user clicks CANCEL button
+2019-01-31 11:07:42 INFO  RegistrationPageTests:88 - Browser closed
+2019-01-31 11:07:49 INFO  RegistrationPageTests:22 - Browser opened and User Signed In successfully
+2019-01-31 11:08:09 INFO  HomePageTests:18 - Browser opened
+2019-01-31 11:08:10 INFO  HomePageTests:52 - Verified Cant Login
+2019-01-31 11:08:17 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-01-31 11:09:43 INFO  HomePageTests:18 - Browser opened
+2019-01-31 11:09:44 INFO  HomePageTests:52 - Verified Cant Login
+2019-01-31 11:09:53 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-02-02 09:54:15 INFO  RegistrationPageTests:22 - Browser opened and Admin Signed In successfully
+2019-02-02 09:54:16 INFO  RegistrationPageTests:34 - Verified title after user signed in
+2019-02-02 09:54:17 INFO  RegistrationPageTests:44 - Clicked on Logo after Admin signed in
+2019-02-02 09:54:25 INFO  RegistrationPageTests:57 - Verified... The control goes to begin of Registration details after Admin clicks CANCEL button
+2019-02-02 09:54:32 INFO  RegistrationPageTests:88 - Browser closed
+2019-02-02 09:56:15 INFO  RegistrationPageTests:22 - Browser opened and Admin Signed In successfully
+2019-02-02 09:56:15 INFO  RegistrationPageTests:34 - Verified title after user signed in
+2019-02-02 09:56:16 INFO  RegistrationPageTests:44 - Clicked on Logo after Admin signed in
+2019-02-02 09:56:25 INFO  RegistrationPageTests:89 - Browser closed
+2019-02-02 09:56:25 INFO  RegistrationPageTests:58 - Verified... The control goes to begin of Registration details after Admin clicks CANCEL button
+2019-02-02 09:58:28 INFO  RegistrationPageTests:22 - Browser opened and Admin Signed In successfully
+2019-02-02 09:58:29 INFO  RegistrationPageTests:34 - Verified title after user signed in
+2019-02-02 09:58:30 INFO  RegistrationPageTests:44 - Clicked on Logo after Admin signed in
+2019-02-02 09:58:42 INFO  RegistrationPageTests:90 - Browser closed
+2019-02-02 09:58:42 INFO  RegistrationPageTests:58 - Verified... The control goes to begin of Registration details after Admin clicks CANCEL button
+2019-02-02 09:58:48 INFO  RegistrationPageTests:22 - Browser opened and Admin Signed In successfully
+2019-02-02 09:59:04 INFO  RegistrationPageTests:81 - Verified... The PATIENT registration details are successfully saved into the system after user clicks CONFIRM button
+2019-02-02 09:59:06 INFO  RegistrationPageTests:90 - Browser closed
+2019-02-02 10:00:36 INFO  RegistrationPageTests:22 - Browser opened and Admin Signed In successfully
+2019-02-02 10:00:37 INFO  RegistrationPageTests:34 - Verified title after user signed in
+2019-02-02 10:00:37 INFO  RegistrationPageTests:44 - Clicked on Logo after Admin signed in
+2019-02-02 10:00:49 INFO  RegistrationPageTests:92 - Browser closed
+2019-02-02 10:00:49 INFO  RegistrationPageTests:59 - Verified... The control goes to begin of Registration details after Admin clicks CANCEL button
+2019-02-02 10:00:55 INFO  RegistrationPageTests:22 - Browser opened and Admin Signed In successfully
+2019-02-02 10:01:05 INFO  RegistrationPageTests:83 - Verified... The PATIENT registration details are successfully saved into the system after user clicks CONFIRM button
+2019-02-02 10:01:07 INFO  RegistrationPageTests:92 - Browser closed
+2019-02-02 10:05:08 INFO  HomePageTests:18 - Browser opened
+2019-02-02 10:05:09 INFO  HomePageTests:52 - Verified Cant Login
+2019-02-02 10:05:17 INFO  RegistrationPageTests:22 - Browser opened and Admin Signed In successfully
+2019-02-02 10:05:18 INFO  RegistrationPageTests:34 - Verified title after user signed in
+2019-02-02 10:05:25 INFO  FindPatientPageTests:21 - Browser opened and User Signed In successfully
+2019-02-02 10:05:32 INFO  FindPatientPageTests:63 - Verified... The Patient is not registered
+2019-02-02 10:05:37 INFO  FindPatientPageTests:76 - Browser closed
+2019-02-02 10:05:43 INFO  HomePageTests:18 - Browser opened
+2019-02-02 10:05:43 INFO  HomePageTests:42 - Verified title of the page
+2019-02-02 10:05:51 INFO  HomePageTests:18 - Browser opened
+2019-02-02 10:05:52 INFO  HomePageTests:30 - Logo clicked
+2019-02-02 10:05:59 INFO  RegistrationPageTests:22 - Browser opened and Admin Signed In successfully
+2019-02-02 10:06:10 INFO  RegistrationPageTests:76 - Verified... The PATIENT registration details are successfully saved into the system after user clicks CONFIRM button
+2019-02-02 10:06:10 INFO  RegistrationPageTests:85 - Browser closed
+2019-02-02 10:11:55 INFO  HomePageTests:18 - Browser opened
+2019-02-02 10:11:56 INFO  HomePageTests:52 - Verified Cant Login
+2019-02-02 10:11:56 INFO  HomePageTests:42 - Verified title of the page
+2019-02-02 10:12:00 INFO  HomePageTests:30 - Logo clicked
+2019-02-02 10:13:34 INFO  HomePageTests:18 - Browser opened
+2019-02-02 10:13:35 INFO  HomePageTests:52 - Verified Cant Login
+2019-02-02 10:13:36 INFO  HomePageTests:42 - Verified title of the page
+2019-02-02 10:13:39 INFO  HomePageTests:30 - Logo clicked
+2019-02-02 10:15:21 INFO  HomePageTests:19 - Browser opened
+2019-02-02 10:15:22 INFO  HomePageTests:53 - Verified Cant Login
+2019-02-02 10:15:22 INFO  HomePageTests:43 - Verified title of the page
+2019-02-02 10:15:26 INFO  HomePageTests:31 - Logo clicked
+2019-02-02 10:15:28 INFO  HomePageTests:61 - =======Begin executing Home Page Tests=================
+2019-02-02 10:16:23 INFO  HomePageTests:19 - =======Begin executing Home Page Tests=================
+2019-02-02 10:16:23 INFO  HomePageTests:21 - Browser opened
+2019-02-02 10:16:24 INFO  HomePageTests:55 - Verified Cant Login
+2019-02-02 10:16:24 INFO  HomePageTests:45 - Verified title of the page
+2019-02-02 10:16:28 INFO  HomePageTests:33 - Logo clicked
+2019-02-02 10:16:30 INFO  HomePageTests:63 - =======End executing Home Page Tests=================
+2019-02-02 10:18:19 INFO  RegistrationPageTests:19 - =======Begin executing Registration Page Tests=================
+2019-02-02 10:18:22 INFO  RegistrationPageTests:24 - Browser opened and Admin Signed In successfully
+2019-02-02 10:18:23 INFO  RegistrationPageTests:36 - Verified title after user signed in
+2019-02-02 10:18:27 INFO  RegistrationPageTests:46 - Clicked on Logo after Admin signed in
+2019-02-02 10:18:44 INFO  RegistrationPageTests:87 - Browser closed
+2019-02-02 10:18:44 INFO  RegistrationPageTests:88 - =======End executing Registration Page Tests=================
+2019-02-02 10:18:44 INFO  RegistrationPageTests:59 - Verified... The control goes to begin of Registration details after Admin clicks CANCEL button
+2019-02-02 10:18:50 INFO  RegistrationPageTests:19 - =======Begin executing Registration Page Tests=================
+2019-02-02 10:18:51 INFO  RegistrationPageTests:24 - Browser opened and Admin Signed In successfully
+2019-02-02 10:19:01 INFO  RegistrationPageTests:78 - Verified... The PATIENT registration details are successfully saved into the system after user clicks CONFIRM button
+2019-02-02 10:19:04 INFO  RegistrationPageTests:87 - Browser closed
+2019-02-02 10:19:04 INFO  RegistrationPageTests:88 - =======End executing Registration Page Tests=================
+2019-02-02 10:21:25 INFO  FindPatientPageTests:18 - =======Begin executing Find Patient Page Tests=================
+2019-02-02 10:21:26 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-02-02 10:21:33 INFO  FindPatientPageTests:64 - Verified... The Patient is not registered
+2019-02-02 10:21:39 INFO  FindPatientPageTests:77 - Browser closed
+2019-02-02 10:21:39 INFO  FindPatientPageTests:78 - =======End executing Find Patient Page Tests=================
+2019-02-02 10:22:13 INFO  HomePageTests:18 - =======Begin executing Home Page Tests=================
+2019-02-02 10:22:13 INFO  HomePageTests:19 - Browser opened
+2019-02-02 10:22:13 INFO  HomePageTests:53 - Verified Cant Login
+2019-02-02 10:22:18 INFO  RegistrationPageTests:19 - =======Begin executing Registration Page Tests=================
+2019-02-02 10:22:20 INFO  RegistrationPageTests:24 - Browser opened and Admin Signed In successfully
+2019-02-02 10:22:20 INFO  RegistrationPageTests:36 - Verified title after user signed in
+2019-02-02 10:22:26 INFO  FindPatientPageTests:18 - =======Begin executing Find Patient Page Tests=================
+2019-02-02 10:22:27 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-02-02 10:22:34 INFO  FindPatientPageTests:64 - Verified... The Patient is not registered
+2019-02-02 10:22:38 INFO  FindPatientPageTests:77 - Browser closed
+2019-02-02 10:22:38 INFO  FindPatientPageTests:78 - =======End executing Find Patient Page Tests=================
+2019-02-02 10:22:49 INFO  RegistrationPageTests:19 - =======Begin executing Registration Page Tests=================
+2019-02-02 10:22:50 INFO  RegistrationPageTests:24 - Browser opened and Admin Signed In successfully
+2019-02-02 10:23:02 INFO  RegistrationPageTests:78 - Verified... The PATIENT registration details are successfully saved into the system after user clicks CONFIRM button
+2019-02-02 10:23:04 INFO  RegistrationPageTests:87 - Browser closed
+2019-02-02 10:23:04 INFO  RegistrationPageTests:88 - =======End executing Registration Page Tests=================
+2019-02-02 10:29:39 INFO  HomePageTests:18 - =======Begin executing Home Page Tests=================
+2019-02-02 10:29:39 INFO  HomePageTests:19 - Browser opened
+2019-02-02 10:29:40 INFO  HomePageTests:55 - Verified Cant Login
+2019-02-02 10:29:40 INFO  HomePageTests:45 - Verified title of the page
+2019-02-02 10:29:44 INFO  HomePageTests:32 - Logo clicked
+2019-02-02 10:29:46 INFO  HomePageTests:63 - =======End executing Home Page Tests=================
+2019-02-02 10:35:09 INFO  HomePageTests:18 - =======Begin executing Home Page Tests=================
+2019-02-02 10:35:09 INFO  HomePageTests:19 - Browser opened
+2019-02-02 10:35:21 INFO  HomePageTests:30 - Verified Cant Login
+2019-02-02 10:35:21 INFO  HomePageTests:44 - Verified title of the page
+2019-02-02 10:35:25 INFO  HomePageTests:55 - Logo clicked
+2019-02-02 10:35:27 INFO  HomePageTests:66 - =======End executing Home Page Tests=================
+2019-02-02 10:35:59 INFO  HomePageTests:18 - =======Begin executing Home Page Tests=================
+2019-02-02 10:35:59 INFO  HomePageTests:19 - Browser opened
+2019-02-02 10:36:04 INFO  HomePageTests:30 - Verified Cant Login
+2019-02-02 10:36:05 INFO  HomePageTests:44 - Verified title of the page
+2019-02-02 10:36:08 INFO  HomePageTests:55 - Logo clicked
+2019-02-02 10:36:11 INFO  HomePageTests:66 - =======End executing Home Page Tests=================
+2019-02-02 10:36:48 INFO  HomePageTests:18 - =======Begin executing Home Page Tests=================
+2019-02-02 10:36:48 INFO  HomePageTests:19 - Browser opened
+2019-02-02 10:36:52 INFO  HomePageTests:30 - Verified Cant Login
+2019-02-02 10:36:57 INFO  RegistrationPageTests:19 - =======Begin executing Registration Page Tests=================
+2019-02-02 10:36:59 INFO  RegistrationPageTests:24 - Browser opened and Admin Signed In successfully
+2019-02-02 10:36:59 INFO  RegistrationPageTests:36 - Verified title after user signed in
+2019-02-02 10:37:05 INFO  FindPatientPageTests:18 - =======Begin executing Find Patient Page Tests=================
+2019-02-02 10:37:07 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-02-02 10:37:14 INFO  FindPatientPageTests:64 - Verified... The Patient is not registered
+2019-02-02 10:37:17 INFO  FindPatientPageTests:77 - Browser closed
+2019-02-02 10:37:17 INFO  FindPatientPageTests:78 - =======End executing Find Patient Page Tests=================
+2019-02-02 10:37:23 INFO  RegistrationPageTests:19 - =======Begin executing Registration Page Tests=================
+2019-02-02 10:37:24 INFO  RegistrationPageTests:24 - Browser opened and Admin Signed In successfully
+2019-02-02 10:37:36 INFO  RegistrationPageTests:78 - Verified... The PATIENT registration details are successfully saved into the system after user clicks CONFIRM button
+2019-02-02 10:37:36 INFO  RegistrationPageTests:87 - Browser closed
+2019-02-02 10:37:36 INFO  RegistrationPageTests:88 - =======End executing Registration Page Tests=================
+2019-02-02 10:40:47 INFO  HomePageTests:18 - =======Begin executing Home Page Tests=================
+2019-02-02 10:40:47 INFO  HomePageTests:19 - Browser opened
+2019-02-02 10:40:51 INFO  HomePageTests:30 - Verified Cant Login
+2019-02-02 10:40:57 INFO  RegistrationPageTests:19 - =======Begin executing Registration Page Tests=================
+2019-02-02 10:40:58 INFO  RegistrationPageTests:24 - Browser opened and Admin Signed In successfully
+2019-02-02 10:40:59 INFO  RegistrationPageTests:36 - Verified title after user signed in
+2019-02-02 10:41:04 INFO  FindPatientPageTests:18 - =======Begin executing Find Patient Page Tests=================
+2019-02-02 10:41:06 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-02-02 10:41:13 INFO  FindPatientPageTests:64 - Verified... The Patient is not registered
+2019-02-02 10:41:18 INFO  FindPatientPageTests:77 - Browser closed
+2019-02-02 10:41:18 INFO  FindPatientPageTests:78 - =======End executing Find Patient Page Tests=================
+2019-02-02 10:41:23 INFO  RegistrationPageTests:19 - =======Begin executing Registration Page Tests=================
+2019-02-02 10:41:25 INFO  RegistrationPageTests:24 - Browser opened and Admin Signed In successfully
+2019-02-02 10:41:35 INFO  RegistrationPageTests:78 - Verified... The PATIENT registration details are successfully saved into the system after user clicks CONFIRM button
+2019-02-02 10:41:38 INFO  RegistrationPageTests:87 - Browser closed
+2019-02-02 10:41:38 INFO  RegistrationPageTests:88 - =======End executing Registration Page Tests=================
+2019-02-02 10:42:21 INFO  RegistrationPageTests:19 - =======Begin executing Registration Page Tests=================
+2019-02-02 10:42:22 INFO  RegistrationPageTests:24 - Browser opened and Admin Signed In successfully
+2019-02-02 10:42:23 INFO  RegistrationPageTests:36 - Verified title after user signed in
+2019-02-02 10:42:28 INFO  FindPatientPageTests:18 - =======Begin executing Find Patient Page Tests=================
+2019-02-02 10:42:29 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-02-02 10:42:36 INFO  FindPatientPageTests:64 - Verified... The Patient is not registered
+2019-02-02 10:42:40 INFO  FindPatientPageTests:77 - Browser closed
+2019-02-02 10:42:40 INFO  FindPatientPageTests:78 - =======End executing Find Patient Page Tests=================
+2019-02-02 10:42:45 INFO  RegistrationPageTests:19 - =======Begin executing Registration Page Tests=================
+2019-02-02 10:42:47 INFO  RegistrationPageTests:24 - Browser opened and Admin Signed In successfully
+2019-02-02 10:42:58 INFO  RegistrationPageTests:78 - Verified... The PATIENT registration details are successfully saved into the system after user clicks CONFIRM button
+2019-02-02 10:43:00 INFO  RegistrationPageTests:87 - Browser closed
+2019-02-02 10:43:00 INFO  RegistrationPageTests:88 - =======End executing Registration Page Tests=================
+2019-02-02 10:50:18 INFO  RegistrationPageTests:19 - =======Begin executing Registration Page Tests=================
+2019-02-02 10:50:20 INFO  RegistrationPageTests:24 - Browser opened and Admin Signed In successfully
+2019-02-02 10:50:20 INFO  RegistrationPageTests:36 - Verified title after user signed in
+2019-02-02 10:50:25 INFO  FindPatientPageTests:18 - =======Begin executing Find Patient Page Tests=================
+2019-02-02 10:50:26 INFO  FindPatientPageTests:22 - Browser opened and User Signed In successfully
+2019-02-02 10:50:58 INFO  FindPatientPageTests:77 - Browser closed
+2019-02-02 10:50:58 INFO  FindPatientPageTests:78 - =======End executing Find Patient Page Tests=================
+2019-02-02 10:51:04 INFO  RegistrationPageTests:19 - =======Begin executing Registration Page Tests=================
+2019-02-02 10:51:05 INFO  RegistrationPageTests:24 - Browser opened and Admin Signed In successfully
+2019-02-02 10:51:18 INFO  RegistrationPageTests:78 - Verified... The PATIENT registration details are successfully saved into the system after user clicks CONFIRM button
+2019-02-02 10:51:20 INFO  RegistrationPageTests:87 - Browser closed
+2019-02-02 10:51:20 INFO  RegistrationPageTests:88 - =======End executing Registration Page Tests=================
+2019-02-03 23:03:39 INFO  HomePageTests:18 - =======Begin executing Home Page Tests=================
+2019-02-03 23:03:39 INFO  HomePageTests:19 - Browser opened
+2019-02-03 23:03:40 INFO  HomePageTests:30 - Verified Cant Login
+2019-02-03 23:03:41 INFO  HomePageTests:44 - Verified title of the page
+2019-02-03 23:03:42 INFO  HomePageTests:55 - Logo clicked
+2019-02-03 23:03:42 INFO  HomePageTests:66 - =======End executing Home Page Tests=================
+2019-02-03 23:05:09 INFO  RegistrationPageTests:19 - =======Begin executing Registration Page Tests=================

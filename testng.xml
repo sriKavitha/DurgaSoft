@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="OpenMRS" annotations="JDK" preserve-order="true" parallel="none">
+		<classes>
+  		    <!-- <class name="org.openmrs.demo.OpenMRSNew.HomePageTests" /> 
+			 --><class name="org.openmrs.demo.OpenMRSNew.RegistrationPageTests" />
+ 			<class name="org.openmrs.demo.OpenMRSNew.FindPatientPageTests" />
+
+		</classes>
+	</test> <!-- OpenMRS -->
+</suite> <!-- Suite -->

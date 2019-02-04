@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="OpenMRS(failed)">
+    <classes>
+      <class name="org.openmrs.demo.OpenMRSNew.RegistrationPageTests">
+        <methods>
+          <include name="verifylogo"/>
+          <include name="tearDown"/>
+          <include name="RegisterPageSetUp"/>
+          <include name="VerifyCancelRegister"/>
+        </methods>
+      </class> <!-- org.openmrs.demo.OpenMRSNew.RegistrationPageTests -->
+      <class name="org.openmrs.demo.OpenMRSNew.FindPatientPageTests">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyFindPatient"/>
+          <include name="findPatientSetUp"/>
+        </methods>
+      </class> <!-- org.openmrs.demo.OpenMRSNew.FindPatientPageTests -->
+    </classes>
+  </test> <!-- OpenMRS(failed) -->
+</suite> <!-- Failed suite [Suite] -->
